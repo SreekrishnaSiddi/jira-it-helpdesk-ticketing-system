@@ -53,4 +53,26 @@ I configured a cloud-based IT service project and managed three simulated suppor
 4. Assign the ticket to a technician.
 5. Move the ticket to Work in Progress.
 6. Document troubleshooting steps using internal notes.
-7. Record a
+7. Record a simulated resolution and close the incident.
+
+## Project Screenshots
+
+Screenshots documenting the Jira workspace, ticket management workflow, internal troubleshooting notes, and incident resolutions are available in the [screenshots folder](screenshots/).
+
+## Skills Demonstrated
+
+- Jira Service Management
+- IT Incident Management
+- Help Desk Ticketing Systems
+- Ticket Prioritization and Assignment
+- IT Support Documentation
+- Windows Account Troubleshooting Concepts
+- Basic Network Troubleshooting Concepts
+- Printer Troubleshooting Concepts
+- Incident Resolution Workflow
+
+## Project Outcome
+
+Successfully created, assigned, tracked, and completed three simulated IT support incidents in Jira Service Management.
+
+All technical resolutions were documented as simulated scenarios rather than verified changes to production systems. The project demonstrates practical Jira ticket management and familiarity with common Tier 1 help desk troubleshooting workflows.
