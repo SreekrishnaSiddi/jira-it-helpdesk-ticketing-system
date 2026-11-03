@@ -57,7 +57,44 @@ I configured a cloud-based IT service project and managed three simulated suppor
 
 ## Project Screenshots
 
-Screenshots documenting the Jira workspace, ticket management workflow, internal troubleshooting notes, and incident resolutions are available in the [screenshots folder](screenshots/).
+#### 1. Jira Project Dashboard
+![Jira Project Dashboard](screenshots/01-Jira-Project-Dashboard.png)
+
+#### 2. Ticket Queue
+![Ticket Queue](screenshots/02-Ticket-Queue.png)
+
+#### 3. Incident Ticket Details
+![Incident Ticket Details](screenshots/03-Incident-Ticket-Details.png)
+
+#### 4. Ticket Assignment
+![Ticket Assignment](screenshots/04-Ticket-Assignment.png)
+
+#### 5. Windows Account Troubleshooting
+![Troubleshooting Documentation](screenshots/05-Troubleshooting-Documentation.png)
+
+#### 6. Windows Incident Resolution
+![Incident Resolution](screenshots/06-Incident-Resolution.png)
+
+#### 7. Network Connectivity Incident
+![Network Incident](screenshots/07-Network-Connectivity-Incident.png)
+
+#### 8. Network Troubleshooting
+![Network Troubleshooting](screenshots/08-Network-Troubleshooting.png)
+
+#### 9. Network Incident Resolution
+![Network Resolution](screenshots/09-Network-Incident-Resolution.png)
+
+#### 10. Printer Incident
+![Printer Incident](screenshots/10-Printer-Incident.png)
+
+#### 11. Printer Troubleshooting
+![Printer Troubleshooting](screenshots/11-Printer-Troubleshooting.png)
+
+#### 12. Printer Resolution
+![Printer Resolution](screenshots/12-Printer-Resolution.png)
+
+#### 13. Completed Tickets Overview
+![Completed Tickets](screenshots/13-Completed-Tickets-Overview.png)
 
 ## Skills Demonstrated
 
